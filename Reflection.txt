@@ -1,5 +1,3 @@
-This is an example file for reflection in IBI1_2025-26.
-
-During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
-
-I was able to edit this file to show changes in the lecture
+It is interestng to learn how to manage project with git and github!
+Actually the duration is kind of difficult, beacause I am not familiar with those code, and always typing wrong code and confusing I with l.
+I wish I could do better afer practicing!  
