@@ -18,4 +18,4 @@ else:
         crcl=(140-age)*weight/72/cr
         print("CrCl=",crcl)
     else:
-        print("gender is wronge!")
+        print("gender is wrong!")
